@@ -1,0 +1,50 @@
+* {
+	line-height: 1.5;
+}
+
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+	border: 1px solid blue;
+}
+
+.header {
+	font-weight: 800;
+}
+
+.main-header {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+
+.content {
+	background-color: rgba(10, 0, 200, 0.4);
+	border: 1px solid green;
+}
+
+
+.card-container {
+	font-weight: 100;
+	background-color: rgba(200, 0, 10, 0.4);
+}
+
+.card {
+	border: 1px solid lightsalmon;
+	background-color: lightskyblue;
+}
+
+.recipes-list li {
+	list-style: none;
+}
+
+recipes-list a {
+	text-decoration: none;
+	color: black;
+}
+
+.cover-img {
+	height: auto;
+	width: 400px;
+}
